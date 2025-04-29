@@ -2,11 +2,11 @@
 Meu perfil no GitHub com informações sobre mim e minha jornada na programação.
  # Olá! 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisociesc 🎓. Atualmente, estou focado em aprender **lógica de programação**, **JavaScript** e **C++** para construir uma base sólida no desenvolvimento de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisociesc 🎓. Atualmente, estou focado em aprender **lógica de programação**, **Java** e **C++** para construir uma base sólida no desenvolvimento de software.
 
 📌 **O que estou estudando agora:**  
 - 🖥️ Lógica de programação  
-- 📜 JavaScript e C++  
+- 📜 Java e C++  
 - 🔢 Estruturas de dados e algoritmos  
 
 📚 **Projetos futuros:**  
